@@ -19,7 +19,8 @@ public class Assignment3_Classes_EmpGroups {
 		employeeIds[0] = emp.empId1;
 		employeeIds[1] = emp.empId2;
 		employeeIds[2] = emp.empId3;
-
+		
+		
 		// Printing 1st Employee Name and ID
 		System.out.println("Employee Name: " + employeeNames[0] + "Employee ID: " + employeeIds[0]);
 
