@@ -1,4 +1,4 @@
-package com.cg.creatio.crm.language.basics;
+package assignments;
 
 public class Assignment2_MultyDimentionalArray_1 {
 
